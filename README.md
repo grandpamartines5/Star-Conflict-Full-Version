@@ -247,4 +247,4 @@ This repository serves as the official landing page for Star Conflict. The softw
 **Get the most recent version of Star Conflict today!**
 
 ---
-**Last updated:** 2026-10-08 17:17:05 UTC
+**Last updated:** 2026-10-08 22:52:05 UTC
